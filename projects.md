@@ -1,0 +1,2 @@
+- Cron job to sync data in two customer databases.
+- Android notifications. 
